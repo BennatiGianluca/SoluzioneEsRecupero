@@ -6,7 +6,7 @@ namespace CalcLibrary.Test
     public class UnitTest1
     {
         [TestMethod]
-        public void TestRadQ()
+        public void TestRadQ1()
         {
             double num = 36;
             double numeroaspettato = 6;
