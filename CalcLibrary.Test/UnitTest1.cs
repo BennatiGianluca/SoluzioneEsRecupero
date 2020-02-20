@@ -15,7 +15,7 @@ namespace CalcLibrary.Test
 
         }
         [TestMethod]
-        public void TestVertice()
+        public void TestVertice1()
         {
             double a = 4;
             double b = 2;
